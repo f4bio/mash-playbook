@@ -371,6 +371,10 @@
     - role: galaxy/plex
     # /role-specific:plex
 
+    # role-specific:jellyfin
+    - role: galaxy/jellyfin
+    # /role-specific:jellyfin
+
     # role-specific:postgis
     - role: galaxy/postgis
     # /role-specific:postgis
